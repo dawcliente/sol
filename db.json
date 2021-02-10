@@ -127,32 +127,32 @@
   "ciudades": [{
     "ciudad" : "Madrid",
     "id" : 1,
-    "UTC" : 2,
+    "UTC" : 1,
     "mostrar": true
   },
   {
     "ciudad" : "Nueva York",
     "id" : 2,
-    "UTC" : -4
+    "UTC" : -5
   },
   {
     "ciudad" : "Los Ángeles",
     "id" : 3,
-    "UTC" : -7
+    "UTC" : -8
   },
   {
     "ciudad" : "Tokio",
     "id" : 4,
-    "UTC" : 9
+    "UTC" : 8
   },
   {
     "ciudad" : "Beijing",
     "id" : 5,
-    "UTC" : 8
+    "UTC" : 7
   },
   {
     "ciudad" : "Moscú",
     "id" : 6,
-    "UTC" : 3
+    "UTC" : 2
   }]
 }
