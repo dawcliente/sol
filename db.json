@@ -133,12 +133,12 @@
   {
     "ciudad" : "Nueva York",
     "id" : 2,
-    "UTC" : -6
+    "UTC" : -4
   },
   {
     "ciudad" : "Los Ángeles",
     "id" : 3,
-    "UTC" : -8
+    "UTC" : -7
   },
   {
     "ciudad" : "Tokio",
