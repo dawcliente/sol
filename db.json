@@ -127,18 +127,18 @@
   "ciudades": [{
     "ciudad" : "Madrid",
     "id" : 1,
-    "UTC" : 1,
+    "UTC" : 2,
     "mostrar": true
   },
   {
     "ciudad" : "Nueva York",
     "id" : 2,
-    "UTC" : -5
+    "UTC" : -6
   },
   {
     "ciudad" : "Los Ángeles",
     "id" : 3,
-    "UTC" : -8
+    "UTC" : -9
   },
   {
     "ciudad" : "Tokio",
